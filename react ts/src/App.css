@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.text {
+  padding: 10px;
+}
+
+.submitButton {
+  padding: 10px;
+}
+
+.todoList li {
+  /* width: 10%; */
+  display: block;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.todoList li input {
+  padding: 7px;
+}
